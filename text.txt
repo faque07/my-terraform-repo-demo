@@ -1,1 +1,3 @@
 hi this is text. txt file 
+Hi this is msg from local machine to git hub
+pls uploadt the main.tf
